@@ -16,8 +16,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-    },
-    "repository": {
+   "repository": {
     "type": "git",
     "url": "git+https://https://github.com/Refloow/Steam-Games-Idle.git"
   },
