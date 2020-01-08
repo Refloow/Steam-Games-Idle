@@ -1,0 +1,21 @@
+{
+  "name": "steam-games-idle",
+  "version": "1.0.0",
+  "description": "Node.js based script for idling (boosting playtime in hours) for choosen game. ",
+  "main": "index.js",
+  "dependencies": {
+    "request-promise": "^4.2.2",
+    "steam-totp": "^2.1.0",
+    "steam-tradeoffer-manager": "^2.9.4",
+    "steam-user": "^3.29.1",
+    "steamcommunity": "^3.38.0",
+    "winston": "^3.1.0",
+    "moment": "^2.22.2",
+    "request": "2.88.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Refloow (MajokingGames)",
+  "license": "MIT"
+}
