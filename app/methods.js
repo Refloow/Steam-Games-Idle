@@ -7,6 +7,11 @@ const colors = require('colors');
 const moment = require('moment');
 
 t = module.exports = {
+
+    AutoGenerateLoginCodes: function() {
+        return config.SteamGuardAuto == true;
+    },
+
 	check: function() {
         const request = require('request');
         var options = {
