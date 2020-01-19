@@ -24,10 +24,14 @@ const infolog = require('./infolog.js');
 const method = require('./methods');
 const refloowidle = new SteamUser();
 const community = new SteamCommunity();
-const LogOnOptions = {
+const LogOnOptionsAUTO = {
 	accountName: config.loginAccName,
 	password: config.password,
 	twoFactorCode: SteamTotp.generateAuthCode(config.shared_secret)
+}
+const LogOnOptionsMANUAL = {
+	accountName: config.loginAccName,
+	password: config.password,
 }
 
 // Checking for correct version (updates) for bot on github
@@ -37,7 +41,15 @@ method.check();
 // APP START
 
 // Login
-refloowidle.logOn(LogOnOptions);
+if(method.AutoGenerateLoginCodes())
+    {
+    refloowidle.logOn(LogOnOptionsAUTO);
+}
+if(!method.AutoGenerateLoginCodes())
+	{
+    refloowidle.logOn(LogOnOptionsMANUAL);
+}
+    
 
 // Set Idle Game
 refloowidle.on('loggedOn', () => {
