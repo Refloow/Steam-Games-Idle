@@ -5,9 +5,11 @@ module.exports = {
 
 	loginAccName: '',
 	password: '',
+	// Leave empty if account dont have 2fa auth. // If you leave shared_secret empty configure steamguardauto false to manualy enter codes.
 	shared_secret: '',
 
-
+    // Enable or disable | [true / false] automaticly generating 2fa codes for loging into account.
+    SteamGuardAuto: true,
 
 	// Settings //
 
