@@ -17,7 +17,7 @@ console.log('o888o  88o8  88oooo888 o888o   o888o  88ooo88     88ooo88     88   
 
 
 console.log('This bot was developed by MajokingGames'.cyan);
-console.log('Verision 1.0.0 Free to use'.cyan);
+console.log('Verision 1.0.1 Free to use'.cyan);
 console.log('Thanks for choosing us.'.cyan);
 console.log('Loading config file...'.green );
 console.log('Starting bot...'.green );
