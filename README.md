@@ -1,5 +1,5 @@
 # Steam-Games-Idle
-Node.js based script for idling (boosting playtime in hours) for choosen game.
+Node.js based script for idling (boosting playtime in hours) for choosen game without using computer resources.
 
 # DISCORD Support Server
 
