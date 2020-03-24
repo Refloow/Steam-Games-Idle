@@ -1,6 +1,13 @@
 # Steam-Games-Idle
 Node.js based script for idling (boosting playtime in hours) for choosen game without using computer resources.
 
+
+![GitHub package version](https://img.shields.io/github/package-json/v/Refloow/Steam-Games-Idle.svg)
+[![GitHub forks](https://img.shields.io/github/forks/Refloow/Steam-Games-Idle.svg?style=plastic)](https://github.com/Refloow/Steam-Games-Idle/network)
+[![GitHub stars](https://img.shields.io/github/stars/Refloow/Steam-Games-Idle.svg?style=plastic)](https://github.com/Refloow/Steam-Games-Idle/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/Refloow/Steam-Games-Idle/master/LICENSE)
+[![Steam](https://img.shields.io/badge/steam-donate-yellow.svg)](https://steamcommunity.com/tradeoffer/new/?partner=392773011&token=CncehZti)
+
 # DISCORD Support Server
 
 https://discord.gg/UKbGDpv
