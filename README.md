@@ -10,7 +10,7 @@ Node.js based script for idling (boosting playtime in hours) for choosen game wi
 
 # DISCORD Support Server
 
-https://discord.gg/MdFZrT6
+https://discord.gg/XxvjjPs
 
 # Prerequisites
 - Node.js (https://nodejs.org/en/)
