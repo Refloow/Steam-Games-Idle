@@ -20,5 +20,5 @@ try {
    process.exit(1);
 }
 
-// Setting client name
+// Setting Client name
 const refloowidle = new SteamUser();
