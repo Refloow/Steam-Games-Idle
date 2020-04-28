@@ -1,4 +1,4 @@
-// Steam-Donation-Bot-PRO - Bot built by Refloow (-MajokingGames)
+// Steam-Games-Idle - Bot built by Refloow (-MajokingGames)
 
 /* 
   Here is contact info: refloowcontact@gmail.com 
