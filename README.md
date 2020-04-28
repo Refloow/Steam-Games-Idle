@@ -20,7 +20,7 @@ Steam-Games-Idle is Node.js based script for idling (boosting playtime in hours)
 To everyone who plan to sell our project by stating that they coded it or that they sell edited version. Project is licensed under the MIT license
 
 "The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software."
+copies or substantial portions of the Software." 
 
 This means that if you plan to sell our project to make quick buck please keep the copyright notice and copy of original license. In case of breaking licensing terms we may take legal charges against you.
 
