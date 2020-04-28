@@ -1,5 +1,13 @@
 module.exports = {
 
+// Steam-Games-Idle - Bot built by Refloow (-MajokingGames)
+
+/* 
+  Here is contact info: refloowcontact@gmail.com 
+  or main dev steam: https://steamcommunity.com/id/MajokingGames/
+
+ */
+
 
     // Bot Account Information //
 
@@ -10,6 +18,8 @@ module.exports = {
 
     // Enable or disable | [true / false] automaticly generating 2fa codes for loging into account.
     SteamGuardAuto: true,
+    // Enable or disable | [true / false] Showing update notifications in console for new version
+    UpdateNotif_Enable: true, 
 
 	// Settings //
 
