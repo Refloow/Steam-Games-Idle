@@ -1,5 +1,5 @@
 <p align="center">
-<img width="170" height="170" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png">
+<img width="160" height="160" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png">
 </p>
 <p align="center">
 <img width="600" height="100" src="https://github.com/d0biar/skdsajl/blob/master/ProjectImages/Steam-Games-Idle.png?raw=true">
