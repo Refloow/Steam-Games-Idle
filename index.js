@@ -18,9 +18,6 @@ try {
 	process.exit(1);
 }
 
-// Starting bot (imported main file)
-require('./app/app.js');
-
 // Basic display on app start
 console.log('‎ooooo ooooooooo  ooooo       ooooooooooo '.red);
 console.log(' 888   888    88o 888         888    88  '.red);
@@ -43,6 +40,9 @@ console.log('Thanks for choosing us.'.cyan);
 console.log('Loading config file...'.green );
 console.log('Starting bot...'.green );
 console.log('If bot doesnt start in next 1 minute steam is down.\n\n'.green );
+
+// Starting bot (imported main file)
+require('./app/app.js');
 
 // Steam-Games-Idle - Bot built by Refloow (-MajokingGames)
 
