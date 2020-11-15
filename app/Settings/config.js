@@ -39,4 +39,11 @@ module.exports = {
 	// - GO to the store page  https://store.steampowered.com/explore/
 	// - Find game you want to idle for (example cs go)
 	// - Inside of store page url of this game is gameid : https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/
+	
+	
+	/* HOW TO SET A NONSTEAM GAME (OR CUSTOM MESSAGE) AS PLAYED GAME ?*/
+	
+	// - GameToIdleFor: "Your message",
+	
+	// This will make bot show status in non steam game Your message.
 }
