@@ -28,8 +28,8 @@ const Steam = require('./steam.js');
 const infolog = require('./infolog.js');
 const method = require('./methods');
 
+// Name of the client
 const refloowidle = new SteamUser();
-const community = new SteamCommunity();
 
 // Login options for auto login (auto generating 2fa codes)
 const LogOnOptionsAUTO = {
