@@ -24,7 +24,6 @@ try {
 
 // Importing required files
 const config = require('./Settings/config.js');
-const Steam = require('./steam.js');
 const infolog = require('./infolog.js');
 const method = require('./methods');
 
