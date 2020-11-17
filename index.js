@@ -2,7 +2,10 @@
 
 /* 
   Here is contact info: refloowlibrarycontact@gmail.com
-  or main dev steam: https://steamcommunity.com/id/MajokingGames/
+  main dev steam: https://steamcommunity.com/id/MajokingGames/
+  Support Discord: https://discord.gg/nNSDPvKBjt
+  
+  Donate: https://ko-fi.com/refloow
 
  */
 
@@ -35,11 +38,17 @@ console.log('o888o  88o8  88oooo888 o888o   o888o  88ooo88     88ooo88     88   
 
 
 console.log('This bot was developed by MajokingGames'.cyan);
-console.log('Verision 1.0.2 Free to use'.cyan);
+console.log('Verision 1.0.3 Free to use'.cyan);
 console.log('Thanks for choosing us.'.cyan);
 console.log('Loading config file...'.green );
 console.log('Starting bot...'.green );
 console.log('If bot doesnt start in next 1 minute steam is down.\n\n'.green );
+
+console.log('If you enjoy using our projects, you can support us via donations,  '.brightYellow);
+console.log('that way we can keep releasing free projects & updates for existing ones!'.brightYellow);
+console.log('Check links down below:\n'.brightYellow);
+console.log('Ko-fi: https://ko-fi.com/refloow'.green);
+console.log('Steam: https://steamcommunity.com/tradeoffer/new/?partner=392773011&token=CncehZti (ingame items)\n\n'.green);
 
 // Starting bot (imported main file)
 require('./app/app.js');
@@ -48,6 +57,9 @@ require('./app/app.js');
 
 /* 
   Here is contact info: refloowlibrarycontact@gmail.com 
-  or main dev steam: https://steamcommunity.com/id/MajokingGames/
+  main dev steam: https://steamcommunity.com/id/MajokingGames/
+  Support Discord: https://discord.gg/nNSDPvKBjt
+  
+  Donate: https://ko-fi.com/refloow
 
  */
