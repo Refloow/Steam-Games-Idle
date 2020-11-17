@@ -8,14 +8,13 @@
     },
   "homepage": "https://github.com/Refloow/Steam-Games-Idle/blob/master/README.md",
   "dependencies": {
+    "moment": "2.28.0",
+    "request": "2.88.0",
     "request-promise": "^4.2.2",
-    "steam-totp": "^2.1.0",
-    "steam-tradeoffer-manager": "^2.9.4",
-    "steam-user": "^3.29.1",
-    "steamcommunity": "^3.38.0",
-    "winston": "^3.1.0",
-    "moment": "^2.22.2",
-    "request": "2.88.0"
+    "steam-totp": "2.1.1",
+    "steam-user": "4.18.0",
+    "steamcommunity": "3.41.6",
+    "winston": "3.3.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
