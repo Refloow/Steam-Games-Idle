@@ -2,7 +2,10 @@
 
 /* 
   Here is contact info: refloowlibrarycontact@gmail.com
-  or main dev steam: https://steamcommunity.com/id/MajokingGames/
+  main dev steam: https://steamcommunity.com/id/MajokingGames/
+  Support Discord: https://discord.gg/nNSDPvKBjt
+  
+  Donate: https://ko-fi.com/refloow
 
  */
 
@@ -63,7 +66,7 @@ if(!method.AutoGenerateLoginCodes())
 
 // Set Idle Game
 refloowidle.on('loggedOn', () => {
-	refloowidle.setPersona(SteamUser.Steam.EPersonaState.LookingToTrade,);
+	refloowidle.setPersona(1);
 	infolog.correct(`| [Reflooow] | LOGIN |: User is logined to steam and script is ready to set idling game...`);
 	// Setting game to idle for
 	refloowidle.gamesPlayed(config.GameToIdleFor);
@@ -75,6 +78,9 @@ refloowidle.on('loggedOn', () => {
 
 /* 
   Here is contact info: refloowlibrarycontact@gmail.com 
-  or main dev steam: https://steamcommunity.com/id/MajokingGames/
+  main dev steam: https://steamcommunity.com/id/MajokingGames/
+  Support Discord: https://discord.gg/nNSDPvKBjt
+  
+  Donate: https://ko-fi.com/refloow
 
  */
