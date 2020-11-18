@@ -42,7 +42,7 @@ https://discord.gg/XxvjjPs
 2. Steam: https://steamcommunity.com/tradeoffer/new/?partner=392773011&token=CncehZti
 
 # Prerequisites
-- Node.js (https://nodejs.org/en/)
+- Node.js (Version recommended for most users) (https://nodejs.org/en/)
 - Text editor (recommend sublime: https://www.sublimetext.com/3)
 
 # Essentials
