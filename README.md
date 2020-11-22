@@ -5,8 +5,15 @@
 <img width="600" height="100" src="https://github.com/d0biar/skdsajl/blob/master/ProjectImages/Steam-Games-Idle.png?raw=true">
 </p>
 
-# About
+<h1 align= "center"><b>
+  About
+  </b>
+</h1>
+
+<p align= "center">
 Steam-Games-Idle is Node.js based script for idling (boosting playtime in hours) for choosen game without using computer resources.
+  <hr>
+</p>
 
 <p align= "center">
   <img src="https://img.shields.io/github/package-json/v/Refloow/Steam-Games-Idle.svg" alt="GitHub package version">
