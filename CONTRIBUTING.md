@@ -1,4 +1,4 @@
-# How to become a contributor and submit your own code to the project?
+# How to become a contributor?
 
 ## Contributor License Agreement
 
@@ -15,7 +15,7 @@ By making a contribution to this project, I certify that:
 ## How to submit your contributions?
 
 1. Submit an issue describing your proposed change to the repo in question.
-2. The repo owner will respond to your issue promptly.
-3. Fork the desired repo, develop and test your code changes.
-4. Ensure that your code has an appropriate set of unit tests which all pass.
-5. Submit a pull request writing an detail report with all information about the changes you made.
+1. The repo owner will respond to your issue promptly.
+1. Fork the desired repo, develop and test your code changes.
+1. Ensure that your code has an appropriate set of unit tests which all pass.
+1. Submit a pull request writing an detail report with all information about the changes you made.
