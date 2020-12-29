@@ -1,3 +1,6 @@
+### `Read this page before asking any questions`
+> **[Important Guides]()**<br>
+
 <p align="center">
 <img width="160" height="160" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png">
 </p>
