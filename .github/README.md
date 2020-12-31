@@ -1,5 +1,5 @@
 ### `Read this page before asking any questions`
-> **[Important Guides]()**<br>
+> **[Important Guides](https://github.com/OSL-Works/Steam-Games-Idle#important-links)**<br>
 
 <p align="center">
 <img width="264.6" height="154" src="https://i.imgur.com/PUCBfA6.png">
