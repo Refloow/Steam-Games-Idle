@@ -69,6 +69,25 @@ Project is made open source and **free for all.**<br>
 <br>
 <hr>
 
+# Important Links
+
+<hr>
+
+### `Setup Guide`
+> **[Step By Step Setup Guide]()**<br>
+### `Contributions`
+> **[Want to contribute? Read how]()**<br>
+### `Features`
+> **[See list of features]()**<br>
+> **[See version changelogs]()**<br>
+### `Policies & Agreements`
+> **[User Agreement]()**<br>
+> **[Privacy Policy]()**<br>
+### `FAQ`
+> **[Frequently Asked Questions]()**<br>
+
+<hr>
+
 # DISCORD Support Server
 
 **https://discord.gg/XxvjjPs**
