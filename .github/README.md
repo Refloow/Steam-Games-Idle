@@ -86,7 +86,7 @@ Project is made open source and **free for all.**<br>
 > **[User Agreement](https://github.com/OSL-Works/Steam-Games-Idle/blob/master/.github/USER_AGREEMENT.md)**<br>
 > **[Privacy Policy](https://github.com/OSL-Works/Steam-Games-Idle/blob/master/.github/PRIVACY.md)**<br>
 ### `FAQ`
-> **[Frequently Asked Questions]()**<br>
+> **[Frequently Asked Questions]()**(currenty writing)<br>
 
 <hr>
 
