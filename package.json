@@ -4,10 +4,11 @@
   "description": "Node.js based script for idling (boosting playtime in hours) for choosen game. ",
   "main": "index.js",
   "bugs": {
-        "url": "https://github.com/Refloow/Steam-Games-Idle/issues"
-    },
+    "url": "https://github.com/Refloow/Steam-Games-Idle/issues"
+  },
   "homepage": "https://github.com/Refloow/Steam-Games-Idle/blob/master/README.md",
   "dependencies": {
+    "console-master": "1.0.2",
     "moment": "2.28.0",
     "request": "2.88.0",
     "request-promise": "4.2.6",
@@ -19,7 +20,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-   "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://https://github.com/Refloow/Steam-Games-Idle.git"
   },
