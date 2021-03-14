@@ -13,9 +13,7 @@
   Discord Support Server: https://discord.gg/D8WCtDD
   Main developer steam: https://steamcommunity.com/id/MajokingGames/ 
   Mail: refloowlibrarycontact@gmail.com
-
-* Donations:
-  Donate: https://ko-fi.com/refloow
+  
  --------------------------------------------------------------------------------------------*/
 
  /* 
@@ -50,6 +48,8 @@ try {
 	SteamTotp = require('steam-totp');
 	// Checking if module steamcommunity is installed
 	SteamCommunity = require('steamcommunity');
+	// Checking if module console-master is installed
+	Console = require('console-master');
 } catch (ex) {
 	// If modules are not installed showing an clear error message to user.
 	console.log('| [Modules] |: Missing dependencies. Install a version with dependecies or use npm install.');
@@ -59,7 +59,6 @@ try {
 
 // Importing required files
 const config = require('./Settings/config.js');
-const infolog = require('./infolog.js');
 const method = require('./methods');
 
 // Name of the client
@@ -99,10 +98,10 @@ if(!method.AutoGenerateLoginCodes())
 // Set Idle Game
 refloowidle.on('loggedOn', () => {
 	refloowidle.setPersona(1);
-	infolog.correct(`| [Reflooow] | LOGIN |: User is logined to steam and script is ready to set idling game...`);
+	Console.true(`| [Reflooow] | LOGIN |: User is logined to steam and script is ready to set idling game...`);
 	// Setting game to idle for
 	refloowidle.gamesPlayed(config.GameToIdleFor);
-	infolog.info(`| [IDLE] | GAMES |: Bot started idling for ${config.GameToIdleFor}`);
+	Console.info(`| [IDLE] | GAMES |: Bot started idling for ${config.GameToIdleFor}`);
 });
 
 // Copyright notice:
