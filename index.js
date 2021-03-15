@@ -54,6 +54,9 @@ try {
 	process.exit(1);
 }
 
+const package = require('./package.json');
+const v = package.version; 
+
 // Basic display on app start
 console.log('‎ooooo ooooooooo  ooooo       ooooooooooo '.red);
 console.log(' 888   888    88o 888         888    88  '.red);
@@ -71,7 +74,7 @@ console.log('o888o  88o8  88oooo888 o888o   o888o  88ooo88     88ooo88     88   
 console.log('/* Original work: Copyright (c) 2020-2021 Refloow All rights reserved. \n Code origin (Free GitHub publish): https://github.com/OSL-Works/Steam-Games-Idle*/\n'.cyan);
 
 console.log('This bot was developed by MajokingGames'.cyan);
-console.log('Verision 1.0.3 Free to use'.cyan);
+console.log(`Verision ${v}`.cyan);
 console.log('Thanks for choosing us.'.cyan);
 console.log('Loading config file...'.green );
 console.log('Starting bot...'.green );
