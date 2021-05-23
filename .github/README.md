@@ -43,8 +43,8 @@ Steam-Games-Idle is Node.js based script for idling (boosting playtime in hours)
 
 
 <p align= "center">
-  <a href="https://ko-fi.com/P5P02ONAC">
-  <img src="https://www.ko-fi.com/img/githubbutton_sm.svg">
+  <a href="https://refloow.com/cdonate" target="_blank">
+  <img src="https://img.shields.io/badge/-CRYPTO%20Donations-red">
   </a>
 </p>
 
@@ -98,9 +98,9 @@ Project is made open source and **free for all.**<br>
 
 # Support the project
 - **If you like the project and the fact that is free you can support us by giving an donation.**
-- We are accepting donations on:
+- We are accepting donations:
 
-1. Ko-fi: https://ko-fi.com/refloow
+1. Crypto: https://refloow.com/cdonate
 2. Steam: https://steamcommunity.com/tradeoffer/new/?partner=392773011&token=CncehZti
 
 <hr>
