@@ -14,6 +14,10 @@
   Main developer steam: https://steamcommunity.com/id/MajokingGames/ 
   Mail: refloowlibrarycontact@gmail.com
   
+  * Donations:
+  Crypto: https://refloow.com/cdonate
+  Steam: https://steamcommunity.com/tradeoffer/new/?partner=392773011&token=CncehZti
+  
  --------------------------------------------------------------------------------------------*/
 
  /* 
