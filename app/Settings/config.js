@@ -43,7 +43,7 @@ Repo link: https://github.com/OSL-Works/Steam-Games-Idle
 
 	// Settings //
 
-	GameToIdleFor: 440, // ID For game that bot will idle for
+	GameToIdleFor: 440 // ID For game that bot will idle for
 
 	// Some of popular game ids //
 
