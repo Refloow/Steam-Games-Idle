@@ -45,8 +45,9 @@ Discord Support Server: https://discord.gg/D8WCtDD   (Open an ticket)
 
 	
 	// Settings //
-
-	GameToIdleFor: 440 // ID For game that bot will idle for
+	
+        Interval: 50000,     // Interval in milisec (how much time shod pass before switching idling for another game)
+	GameToIdleFor: [440] // ID For game that bot will idle for EXAMPLE: [440,730,...] Make sure to have game in library.
 
 	// Some of popular game ids //
 
