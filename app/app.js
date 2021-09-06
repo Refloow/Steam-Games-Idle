@@ -97,16 +97,23 @@ if(!method.AutoGenerateLoginCodes())
 	{
     refloowidle.logOn(LogOnOptionsMANUAL);
 }
-    
+
+	function a(){
+	    var items = config.GameToIdleFor;
+		var item = items[Math.floor(Math.random()*items.length)];
+    refloowidle.gamesPlayed(item);
+    Console.info(`| [IDLE] | GAMES |: Bot started idling for ${item}`);
+    }    
 
 // Set Idle Game
 refloowidle.on('loggedOn', () => {
 	refloowidle.setPersona(1);
 	Console.true(`| [Reflooow] | LOGIN |: User is logined to steam and script is ready to set idling game...`);
 	// Setting game to idle for
-	refloowidle.gamesPlayed(config.GameToIdleFor);
-	Console.info(`| [IDLE] | GAMES |: Bot started idling for ${config.GameToIdleFor}`);
-});
+    a();
+ })
+	
+setInterval(a, config.Interval);
 
 // Copyright notice:
 
