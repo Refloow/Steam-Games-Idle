@@ -26,7 +26,7 @@ Discord Support Server: https://discord.gg/D8WCtDD   (Open an ticket)
   
 * Donations:
   Crypto: https://refloow.com/cdonate
-  Steam: https://steamcommunity.com/tradeoffer/new/?partner=908829436&token=wCNxGnyr
+  Steam: https://steamcommunity.com/tradeoffer/new/?partner=994828078&token=XEUdbqp6
 
  */
 
