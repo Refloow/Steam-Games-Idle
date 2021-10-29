@@ -48,6 +48,7 @@ Steam-Games-Idle is Node.js based script for idling (boosting playtime in hours)
   </a>
 </p>
 
+<h3 align= "center"> Leave a star, we push updates based on activity </h3>
 
 # Note:
 
