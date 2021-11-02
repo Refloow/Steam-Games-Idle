@@ -4,7 +4,7 @@ module.exports = {
 
 /*
 Original work: Copyright (c) 2020-2021 Refloow All rights reserved.
-Code origin (Free GitHub publish): https://github.com/OSL-Works/Steam-Games-Idle 
+Code origin (Free GitHub publish): https://github.com/Refloow/Steam-Games-Idle 
 */
 	
 	    
@@ -13,7 +13,7 @@ Code origin (Free GitHub publish): https://github.com/OSL-Works/Steam-Games-Idle
 Want active support and new updates with new features all for free?
 
 Leave a star on github repo its free ( we push updates based on the engagement )
-Repo link: https://github.com/OSL-Works/Steam-Games-Idle 
+Repo link: https://github.com/Refloow/Steam-Games-Idle 
 
 Discord Support Server: https://discord.gg/D8WCtDD   (Open an ticket)
 
