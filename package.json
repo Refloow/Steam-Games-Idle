@@ -19,7 +19,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "title Refloow / Steam-Chat-Logger & node index.js pause"
+    "start": "title Refloow / Steam-Games-Idle & node index.js pause"
   },
   "repository": {
     "type": "git",
