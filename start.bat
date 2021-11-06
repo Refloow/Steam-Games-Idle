@@ -1,3 +1,3 @@
-title Refloow / Steam-Card-Bot-PRO
+title Refloow / Steam-Games-Idle
 node index.js
 pause
