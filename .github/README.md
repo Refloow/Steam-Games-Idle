@@ -154,7 +154,7 @@ Step 6 (run the bot)
 If there is any questions feel free to ask me on: https://steamcommunity.com/id/MajokingGames/
 
 
-# Stargazers over time
+# Stars over time
 
 [![Stargazers over time](https://starchart.cc/Refloow/Steam-Games-Idle.svg)](https://starchart.cc/Refloow/Steam-Games-Idle)
 
