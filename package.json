@@ -9,7 +9,7 @@
   "homepage": "https://github.com/Refloow/Steam-Games-Idle/blob/master/README.md",
   "dependencies": {
     "console-master": "^1.0.3",
-    "moment": "2.28.0",
+    "moment": "2.29.2",
     "request": "2.88.0",
     "request-promise": "4.2.6",
     "steam-totp": "2.1.1",
