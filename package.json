@@ -25,6 +25,7 @@
     "type": "git",
     "url": "git+https://https://github.com/Refloow/Steam-Games-Idle.git"
   },
-  "author": "Refloow (MajokingGames)",
-  "license": "MIT"
+  "author": "Veljko Vuckovic",
+  "license": "MIT",
+  "years": "2020-2022"
 }
