@@ -47,7 +47,7 @@ Discord Support Server: https://discord.gg/D8WCtDD   (Open an ticket)
 	// Settings //
 	
         Interval: 50000,     // Interval in milisec (how much time shod pass before switching idling for another game)
-	GameToIdleFor: [440] // ID For game that bot will idle for EXAMPLE: [440,730,...] Make sure to have game in library.
+	GameToIdleFor: [440], // ID For game that bot will idle for EXAMPLE: [440,730,...] Make sure to have game in library.
 
 	// Some of popular game ids //
 
@@ -70,4 +70,7 @@ Discord Support Server: https://discord.gg/D8WCtDD   (Open an ticket)
 	// - GameToIdleFor: "Your message",
 	
 	// This will make bot show status in non steam game Your message.
+
+	checkdata: false,                       // [true/false] Enable or disable | This feature is used for monitoring it shows scripts ussage of system resources
+        showtimer: 60000  // Time in ms of cycle when will next info be shown. (By default set to 10min);
 }
