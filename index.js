@@ -48,6 +48,7 @@ the original license and copyright notice is licence agreement breach and its co
 try {
 	// Checking if module colors is installed
 	colors = require('colors');
+        diagnostics = require('sgi-diagnostics');
 } catch (ex) {
 	// If modules are not installed showing an clear error message to user.
 	console.log('| [Modules] |: Missing dependencies. Install a version with dependecies or use npm install.');
@@ -57,6 +58,8 @@ try {
 
 // Importing required files
 const package = require('./package.json');
+const method = require('./app/methods.js');
+const config = require('./app/Settings/config.js');
 const v = package.version; 
 
 // Basic display on app start
@@ -90,6 +93,17 @@ console.log('Steam: https://steamcommunity.com/tradeoffer/new/?partner=908829436
 // Starting bot (imported main file)
 require('./app/app.js');
 
+function call() {
+    setInterval(getit, config.showtimer);
+}
+
+function getit() {
+  diagnostics.getusage();
+}
+
+if(method.CheckData()) {
+  call();
+}
 
 // Copyright notice:
 
