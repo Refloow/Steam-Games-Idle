@@ -73,6 +73,9 @@ t = module.exports = {
     UpdateNotifDisable: function() {
         return config.UpdateNotif_Enable == true;
     },
+    CheckData: function() {
+        return config.checkdata == true;
+    },
 
     // Method for checking for new version
 	check: function() {
