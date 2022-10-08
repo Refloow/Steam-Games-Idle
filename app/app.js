@@ -108,7 +108,7 @@ if(!method.AutoGenerateLoginCodes())
 // Set Idle Game
 refloowidle.on('loggedOn', () => {
 	refloowidle.setPersona(1);
-	Console.true(`| [Reflooow] | LOGIN |: User is logined to steam and script is ready to set idling game...`);
+	Console.true(`| [Reflooow] | LOGIN |: Signed into steam. Script is setting game to idle for....`);
 	// Setting game to idle for
     a();
  })
