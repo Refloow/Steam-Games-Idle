@@ -14,7 +14,7 @@
     "request-promise": "4.2.6",
     "sgi-diagnostics": "^1.0.2",
     "steam-totp": "2.1.1",
-    "steam-user": "4.18.0",
+    "steam-user": "5.0.1",
     "steamcommunity": "3.41.6",
     "winston": "3.3.3"
   },
