@@ -2,7 +2,7 @@
 // Copyright notice:
 
 /*--------------------------------------------------------------------------------------------- 
-* Original work: Copyright (c) 2020-2021 Refloow All rights reserved.
+* Original work: Copyright (c) 2020-2021-2022-2023 Refloow All rights reserved.
 
 * Code origin: https://github.com/Refloow/Steam-Games-Idle
 * Developer name: Veljko Vuckovic
@@ -107,5 +107,5 @@ if(method.CheckData()) {
 
 // Copyright notice:
 
-/* Original work: Copyright (c) 2020-2021 Refloow All rights reserved.
+/* Original work: Copyright (c) 2020-2021-2022-2023 Refloow All rights reserved.
   Code origin (Free GitHub publish): https://github.com/OSL-Works/Steam-Games-Idle*/
