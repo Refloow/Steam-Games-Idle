@@ -114,7 +114,11 @@ If you have some private requests feel free to contact main dev : https://steamc
 
 <hr>
 # Prerequisites
-- Node.js (Version recommended for most users) (https://nodejs.org/en/)
+- Node.js 
+Rcently updated node.js version.
+This is node.js version needed for program to run (and install exactly the same as on development machine)
+v20.10.0
+https://nodejs.org/dist/v20.10.0/
 - Text editor (recommend sublime: https://www.sublimetext.com/3)
 
 # Essentials
