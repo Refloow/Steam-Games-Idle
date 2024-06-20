@@ -8,14 +8,15 @@
   },
   "homepage": "https://github.com/Refloow/Steam-Games-Idle",
   "dependencies": {
+    "colors": "1.4.0",
     "console-master": "^1.0.3",
     "moment": "2.28.0",
     "request": "2.88.0",
     "request-promise": "4.2.6",
     "sgi-diagnostics": "^1.0.2",
-    "steam-totp": "2.1.1",
-    "steam-user": "5.0.1",
-    "steamcommunity": "3.41.6",
+    "steam-totp": "^2.1.2",
+    "steam-user": "5.0.4",
+    "steamcommunity": "^3.48.0",
     "winston": "3.3.3"
   },
   "scripts": {
@@ -28,5 +29,5 @@
   },
   "author": "Veljko Vuckovic",
   "license": "MIT",
-  "years": "2020-2022-2023"
+  "years": "2020-2022-2023-2024"
 }
