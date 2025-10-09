@@ -1,0 +1,21 @@
+name: Sync to GitLab
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push to GitLab mirror
+        run: |
+          git push --all https://gitlab-ci-token:${{ secrets.GITLAB_TOKEN }}@gitlab.com/Refloow/Steam-Games-Idle.git
+          git push --tags https://gitlab-ci-token:${{ secrets.GITLAB_TOKEN }}@gitlab.com/Refloow/Steam-Games-Idle.git
