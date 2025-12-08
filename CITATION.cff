@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please credit the official Refloow™ brand using the metadata below."
+title: "Refloow™ Steam Games Idle"
+abstract: "The official Node.js idling automation tool maintained by the Refloow™ Software Organization."
+authors:
+  - name: "Refloow"
+    website: "https://refloow.com"
+    email: "legal@refloow.com"
+  - family-names: "Vuckovic"
+    given-names: "Veljko"
+    affiliation: "Refloow Founder"
+version: 1.1.3
+date-released: 2020-01-08
+license: "MIT"
+repository-code: "https://github.com/Refloow/Steam-Games-Idle"
+url: "https://refloow.com"
+keywords:
+  - "Refloow"
+  - "Refloow™"
+  - "Official"
+  - "Steam Automation"
+  - "Hour Boosting"
