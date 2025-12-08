@@ -26,7 +26,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://https://github.com/Refloow/Steam-Games-Idle.git"
-"author": {
+  },
+  "author": {
     "name": "Refloow",
     "email": "legal@refloow.com",
     "url": "https://refloow.com"
@@ -41,3 +42,4 @@
     "type": "individual",
     "url": "https://refloow.com"
   }
+}
