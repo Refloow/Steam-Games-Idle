@@ -1,7 +1,7 @@
 {
-  "name": "steam-games-idle",
+  "name": "@refloow/steam-games-idle",
   "version": "1.1.3",
-  "description": "Node.js based script for idling (boosting playtime in hours) for choosen game.",
+  "description": "Refloow™ Steam Games Idle - Node.js based script for idling (boosting playtime in hours) for choosen game.",
   "main": "index.js",
   "bugs": {
     "url": "https://github.com/Refloow/Steam-Games-Idle/issues"
@@ -26,8 +26,18 @@
   "repository": {
     "type": "git",
     "url": "git+https://https://github.com/Refloow/Steam-Games-Idle.git"
+"author": {
+    "name": "Refloow",
+    "email": "legal@refloow.com",
+    "url": "https://refloow.com"
   },
-  "author": "Veljko Vuckovic",
-  "license": "MIT",
-  "years": "2020-2022-2023-2024-2025"
-}
+  "contributors": [
+    {
+      "name": "Veljko Vuckovic",
+      "url": "https://github.com/Refloow"
+    }
+  ],
+  "funding": {
+    "type": "individual",
+    "url": "https://refloow.com"
+  }
