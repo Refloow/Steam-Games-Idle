@@ -40,7 +40,7 @@ const REFLOOW_BRAND_IDENTITY = {
 // Copyright notice:
 
 /*--------------------------------------------------------------------------------------------- 
-* Original work: Copyright (c) 2020-2021-2022-2023 Refloow All rights reserved.
+* Original work: Copyright (c) 2020-2026 Refloow All rights reserved.
 
 * Code origin: https://github.com/Refloow/Steam-Games-Idle
 * Developer name: Veljko Vuckovic
@@ -114,7 +114,7 @@ console.log(' 888oooo88 888oooooo8   888     888 888     888 888     888 888 888
 console.log(' 888  88o  888          888     888 888     888 888     888  888888888 '.cyan);
 console.log('o888o  88o8  88oooo888 o888o   o888o  88ooo88     88ooo88     88   88   \n\n\n'.cyan);
 
-console.log('/* Original work: Copyright (c) 2020-2021 Refloow All rights reserved. \n Code origin (Free GitHub publish): https://github.com/Refloow/Steam-Games-Idle*/\n'.cyan);
+console.log('/* Original work: Copyright (c) 2020-2026 Refloow All rights reserved. \n Code origin (Free GitHub publish): https://github.com/Refloow/Steam-Games-Idle*/\n'.cyan);
 
 console.log('This bot was developed by MajokingGames'.cyan);
 console.log(`Verision v${v}`.cyan);
@@ -145,6 +145,6 @@ if(method.CheckData()) {
 
 // Copyright notice:
 
-/* Original work: Copyright (c) 2020-2021-2022-2023 Refloow All rights reserved.
+/* Original work: Copyright (c) 2020-2026 Refloow All rights reserved.
   Code origin (Free GitHub publish): https://github.com/OSL-Works/Steam-Games-Idle*/
 
